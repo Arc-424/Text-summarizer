@@ -1,0 +1,8 @@
+streamlit==0.63.0
+gensim==3.8.1
+spacy==2.2.3
+spacy_streamlit
+textblob==0.15.3
+pattern==3.6
+codecs
+nltk==3.5
